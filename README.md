@@ -2,7 +2,7 @@
 
 
 Criamos uma API afim de disponibilizar esses dados de forma mais fácil para que futuros desenvolvedores posam criar aplicações com esses dados, que pode ser fácilmente acesada pelos links: [api/v1/cidades/{cidade}](https://minhacidade.top/api/v1/cidades/joao-pessoa) e [api/v1/cidades/{cidade}?ano={ano}](https://minhacidade.top/api/v1/cidades/joao-pessoa?ano=2017). 
-Toda a documentação da api pode ser encontrada no [aqui}](https://minha-cidade.github.io/developer). 
+Toda a documentação da api pode ser encontrada no [aqui](https://minha-cidade.github.io/developer). 
   
   ##### Lista da categoria:
 
